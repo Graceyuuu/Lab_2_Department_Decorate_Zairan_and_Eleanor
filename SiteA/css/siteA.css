@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(203, 237, 248);
+}
+#StudioArt {
+  background-color: rgb(190, 79, 96);
+}
+#Economics {
+  background-color: lightgoldenrodyellow;
+}
+#Politics {
+  background-color: lightsalmon;
+}
+#ComputerScience {
+  background-color: rgb(145, 207, 191);
+}
+#Mathematics {
+  background-color: lavender;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 200%;
+}
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 90%;
+}
+img.large {
+  height: 160px;
+  width: 240px;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+td,
+th {
+  border: 2px solid #111111;
+  padding: 3px;
+}
+table {
+  border-collapse: collapse;
+}
+tr.even {
+  background-color: rgb(236, 150, 163);
+}
+
+td.name {
+  text-align: center;
+}
